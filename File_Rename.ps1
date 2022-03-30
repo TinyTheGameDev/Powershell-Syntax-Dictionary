@@ -1,0 +1,1 @@
+Rename-Item -path "$PSScriptRoot\MyFile.txt" -NewName "NewfileName.txt"
